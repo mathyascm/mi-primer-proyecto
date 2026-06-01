@@ -1,0 +1,43 @@
+#Ejemplo tipico de un archivo .gitignore para un proyecto de Python
+
+# Ignorar archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo   
+
+# Ignorar archivos de entorno virtual
+venv/
+env/
+
+# Ignorar archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos de base de datos
+*.db
+
+# Ignorar archivos de pruebas
+tests/
+
+# Ignorar archivos de documentación generados
+docs/_build/
+
+# Ignorar archivos de dependencias
+*.egg-info/
+dist/
+build/
+
+# Ignorar archivos de configuración de Docker
+Dockerfile
+docker-compose.yml
+
+# Ignorar archivos de configuración de CI/CD
+.github/
+.gitlab-ci.yml
+
+# Ignorar archivos de configuración de herramientas de análisis de código
+pylint/
+flake8/

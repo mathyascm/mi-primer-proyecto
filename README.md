@@ -117,10 +117,10 @@ repaso-dev/
 ```
 
 **Checklist del proyecto:**
-- [ ] Carpetas creadas localmente
-- [ ] Archivo `.gitignore` con patrones básicos
-- [ ] README explicando la estructura
-- [ ] Todo en GitHub con commits descriptivos
+- [x] Carpetas creadas localmente
+- [x] Archivo `.gitignore` con patrones básicos
+- [x] README explicando la estructura
+- [x] Todo en GitHub con commits descriptivos
 
 ---
 
