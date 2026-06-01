@@ -74,7 +74,7 @@ Es un archivo que contiene todas los archivos, dependencias y librerias que no s
 - [x] VS Code instalado con extensión de Git
 - [x] Python 3.9+ confirmado (`python --version`)
 - [x] Entiendo qué es un commit y cuándo hacerlo
-- [ ] He creado mi primer repositorio en GitHub
+- [x] He creado mi primer repositorio en GitHub
 - [ ] He hecho al menos 5 commits en ese repositorio
 
 ### 🚀 Proyectos Semana 1
