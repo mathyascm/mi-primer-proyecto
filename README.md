@@ -76,7 +76,7 @@ Se realiza con el comando git clone <'link del proyecto'>
 - [x] Python 3.9+ confirmado (`python --version`)
 - [x] Entiendo qué es un commit y cuándo hacerlo
 - [x] He creado mi primer repositorio en GitHub
-- [ ] He hecho al menos 5 commits en ese repositorio
+- [x] He hecho al menos 5 commits en ese repositorio
 
 ### 🚀 Proyectos Semana 1
 
@@ -90,10 +90,10 @@ Se realiza con el comando git clone <'link del proyecto'>
 - Escribir un README básico
 
 **Checklist del proyecto:**
-- [ ] Repositorio creado en GitHub
-- [ ] README con tu nombre, qué esperas aprender, y por qué
-- [ ] Al menos 3 commits con mensajes claros
-- [ ] Cambios visibles en GitHub
+- [x] Repositorio creado en GitHub
+- [x] README con tu nombre, qué esperas aprender, y por qué
+- [x] Al menos 3 commits con mensajes claros
+- [x] Cambios visibles en GitHub
 
 ---
 
