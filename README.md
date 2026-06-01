@@ -65,6 +65,7 @@ Commit es un comando para guardar los cambios actuales del proyecto en Git.
 Es un archivo que contiene todas los archivos, dependencias y librerias que no se sincronizaran con GitHub, en otras palabras que seran ignorados.
 
 - ¿Cómo clono un repositorio?
+Se realiza con el comando git clone <'link del proyecto'>
 
 ### ✅ Checklist Semanal
 
